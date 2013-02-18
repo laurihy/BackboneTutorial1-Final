@@ -1,1 +1,1 @@
-A bare-bones backbone.js application designed for "Building backbone.js apps with Backlift part 1: Views."
+The end product from "Building Backbone.js apps with Backlift part 1: Views and Templates". It's a website that displays a random poem using a Backbone.js View and a Handlebars.js template.
