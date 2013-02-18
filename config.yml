@@ -6,7 +6,7 @@
 # scripts: These javascript files will be packaged and linked in 
 # order. File paths should be specified relative to the project root.
 # They should not be compressed. The * will match any string and **
-# will match any folder.
+# will match any path.
 
 scripts:
 - /libraries/backlift-reloader.js
