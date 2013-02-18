@@ -10,6 +10,13 @@ var PoemView = Backbone.View.extend({
     };
     this.$el.html(Handlebars.templates.poem(params));
     return this;
+  },
+  events: {
+    "click": "randomize"
+  },
+  randomize: function() {
+    verbList = _.shuffle(verbList);
+    this.render();
   }
 });
 
