@@ -1,0 +1,14 @@
+body {
+	font-family: sans-serif;	
+}
+
+h1 {
+	font-size: 60px;	
+}
+
+div {
+	position: absolute;
+	top: 25%;
+	left: 25%;
+}
+

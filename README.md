@@ -1,0 +1,1 @@
+A bare-bones backbone.js application designed for "Building backbone.js apps with Backlift part 1: Views."
